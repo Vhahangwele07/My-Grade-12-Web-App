@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/outcome.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/get_stats.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/persist_outcome.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/StartSessionServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/invalid_user_id.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/WEB-INF/web.xml</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/get_all_stats.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/index.html</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/LogOutServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/Get_all_stats_outcome.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/GetAllStatsServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/GetStatsByIdServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/Ge_stats_by_id_outcome.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/PersistServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/play_game.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/EndSessionServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/src/java/za/ac/tut/web/OutComeServlet.java</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/logIn_error.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/LogIn.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/user_details.html</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/menu.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/get_stats_by_id.jsp</file>
+            <file>file:/D:/My%20Documents/NetBeansProjects/PalindromeWebApp/web/summary.jsp</file>
+        </group>
+    </open-files>
+</project-private>
